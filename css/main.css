@@ -1,0 +1,40 @@
+body {
+	margin-top: 60px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+}
+
+/* change the URL to a picture of your choice - the higher quality the better! */
+.business-header {
+	height: 450px;  /* DMM changed from 400 */
+	margin-bottom: 20px; /* DMM added */
+	background-color: #428BCA;
+	/*background: url('images/black-lab.png') center center no-repeat; */
+	/*background-size: cover; DMM removed */
+}
+
+.new-section {
+	padding-top: 60px;
+}
+
+/* adjust the color and text shadow to optimize legibility once you have an image set - you can also change the vertical positioning if desired  */
+.tagline {
+	color: #fff; 
+	text-shadow: 0 0 10px #000;
+	padding-top: 20px; /* DMM added */
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* DMM added */
+#components-desc {
+	padding-top: 30px;
+}
+
+footer {
+	margin: 50px 0;
+}
+
+
